@@ -10,7 +10,7 @@ Enjoy!
 
 1. Download the whole folder of the desired project.
 2. If needed, drag and drop a fitting media file to process in the directory of the .py files. (Can be the provided samples)
-3. Run the .py file (Proj<i>) - Recommended: VS Code.
+3. Run the .py file (ProjX) - Recommended: VS Code.
 4. The output file will be present in the working directory.
 
 ## Project - Lane Detection
