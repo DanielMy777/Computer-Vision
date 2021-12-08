@@ -1,5 +1,6 @@
 ## Description
 
+This is a collection of projects in the area of computer vision, written mainly for exercise.
 Each project has been made in python, using the OpenCV[1] library for computerized vision.
 
 Enjoy!
