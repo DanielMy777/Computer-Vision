@@ -2,7 +2,7 @@
 
 This is a collection of projects targeting the area of computer vision, written mainly for exercise.
 
-Each project has been made in python, using the OpenCV[1] library for computerized vision.
+Each project has been made in Python language, using the OpenCV[1] library for computerized vision.
 
 Enjoy!
 
@@ -26,6 +26,6 @@ Feel free to add your contributions, and add special features to these small pro
 
 Contributors:
 - Daniel Malky
-- Amit Viner
+- Amit Viner *
 
 [1]: https://opencv.org/
