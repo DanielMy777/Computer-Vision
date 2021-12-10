@@ -15,7 +15,7 @@ Enjoy!
 
 ## Project - Lane Detection
 
-A small project that proccesses a video of a vehicle driving - Marking the lanes the vehicle is driving at
+A small project that proccesses a video of a driving vehicle - Marking the lanes that the vehicle is driving in
 and alerting when the vehicle has switched lanes.
 
 Implementation consists of - Hough Transform, Canny, Masking & Filtering.
