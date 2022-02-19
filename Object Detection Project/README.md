@@ -20,5 +20,4 @@ machine to identify any group of objects. Follow the instructions to understand 
 7. Run all cells but the last and wait for the training to conclude.
 8. The result will be generated in the 'res' folder in the home directory.
 
-
 [1]: https://pjreddie.com/darknet/yolo/
