@@ -6,7 +6,7 @@ More on transfer learning: https://en.wikipedia.org/wiki/Transfer_learning
 
 The project is provided via Goolge Colab notebook as Google offers free and powerful GPU support which is necessary for the training phase.
 
-The example is a model that can detect the 6 original Avengers (and extras...) but the code is very flexible and with just a tiny bit of changes you can train a
+The provided example is a model that can detect the 6 original Avengers (and extras...) but the code is very flexible and with just a tiny bit of changes you can train a
 machine to identify any group of objects. Follow the instructions to understand how. 
 
 ## Instructions
