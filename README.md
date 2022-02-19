@@ -31,6 +31,16 @@ Implementation consists of - Image transformation, Feature detection.
 
 ![ar](https://user-images.githubusercontent.com/79100490/147984303-31d8b513-061b-41af-af32-2773ed9b6d35.gif)
 
+## Project 3 - Object Detection
+
+Training a NN model to identify custom objects in a given video / image.
+
+Implementation consists of - Transfer learning, YOLOv3, Image augmentations.
+
+Additional skills used - Pythrch, Tensorflow, Goolge Colab, Kaggle.
+
+![det](https://user-images.githubusercontent.com/79100490/154816715-2c87595c-ad44-4349-96d8-e52921ce337e.gif)
+
 
 ## References
 
