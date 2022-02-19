@@ -17,7 +17,7 @@ machine to identify any group of objects. Follow the instructions to understand 
 4. Drag and drop your API key in the home directory of your Colab session.
 5. Drag and drop an input video for detection (call it input.mp4) in the home directory of your Colab session.
 6. (If you would like to train on your own custom dataset, upload it to Kaggle and download this dataset instead of the avengers dataset. all other steps remain the same)
-7. Run all cells but the last and wait for the training to conclude.
-8. The result will be generated in the 'res' folder in the home directory.
+7. Run all cells and wait for the training to conclude.
+8. The result will be generated in the 'res' folder of the home directory.
 
 [1]: https://pjreddie.com/darknet/yolo/
