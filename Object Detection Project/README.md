@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project we implement a custom object detection machine using a method called "Transfer Learning" based on YOLOv3[1].
+In this project we implement a custom object detection machine using a method called "Transfer Learning" based on YOLOv3([1]).
 
 More on transfer learning: https://en.wikipedia.org/wiki/Transfer_learning
 
